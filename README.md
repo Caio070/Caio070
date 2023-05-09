@@ -14,7 +14,7 @@
 
 <br/>
 
-<img height="180em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=Caio070&layout=compact&langs_count=16&theme=tokyonight"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
