@@ -1,6 +1,6 @@
 ### Olá ! Meu nome é Caio Nascimento.
 
-![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=Caio070&show_icons=true&theme=tokyonight)
+[![Caio070 GitHub stats](https://github-readme-stats.vercel.app/api?username=Caio070&theme=tokyonight)](https://github.com/Caio070/github-readme-stats)
 #
 ### Tecnologias que uso e que venho estudando pela DIO.me.
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caio070&layout=compact&theme=tokyonight)](https://github.com/Caio070/github-readme-stats)
 
 #
 
