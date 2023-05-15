@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caio070&layout=compact&theme=tokyonight)](https://github.com/Caio070/github-readme-stats)
+
 
 #
 
