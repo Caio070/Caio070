@@ -2,7 +2,7 @@
 
 [![Caio070 GitHub stats](https://github-readme-stats.vercel.app/api?username=Caio070&theme=tokyonight)](https://github.com/Caio070/github-readme-stats)
 #
-### Tecnologias que uso e que venho estudando pela DIO.me.
+### Tecnologias que uso e que venho estudando.
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
